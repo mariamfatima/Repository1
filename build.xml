@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <project>
+=======
+<project name="FP" default="dist" basedir=".">
+>>>>>>> 1796c076d67368afd1c67ee80e95893e4a143665
     <description>
         simple example build file
     </description>
