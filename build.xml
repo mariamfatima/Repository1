@@ -1,4 +1,4 @@
-<project name="HW" default="dist" basedir=".">
+<project name="FP" default="dist" basedir=".">
     <description>
         simple example build file
     </description>
